@@ -5,6 +5,8 @@ const bodyParser=require('body-parser')
 const port=process.env.PORT || 5500;
 const app=express();
 const sessionId=uuid.v4();
+const serverless=require('serverless-http')
+const router=express.Router()
 
 
 app.use(bodyParser.urlencoded({
@@ -56,3 +58,5 @@ async function runSample(msg, projectId='jurident-bot-bnpv'){
 app.listen(port, ()=>{
     console.log("running on port"+port)
 })
+
+module.exports.handler=serverless(app)
