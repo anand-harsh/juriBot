@@ -23,7 +23,7 @@ app.use(function (req, res, next) {
     // Pass to next layer of middleware
     next();
   });
-app.post('/send-msg', (req, res)=>{
+router.post('/send-msg', (req, res)=>{
     runSample(req.body.MSG).then(data=>{
         res.send({Reply:data})
     })
@@ -54,9 +54,10 @@ async function runSample(msg, projectId='jurident-bot-bnpv'){
     }
     return result.fulfillmentText
 }
-
+/*
 app.listen(port, ()=>{
     console.log("running on port"+port)
 })
-
+*/
+app.use('/.netlify/functions/app', router)
 module.exports.handler=serverless(app)
