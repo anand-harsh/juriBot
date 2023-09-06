@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "jurident-bot-bnpv",
+  "private_key_id": "06bf0f14bb3d534aa57b52bd64236065e38a3d61",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDqTuP2r6WBY6U+\nPPLAOmgWXuM9XekCoZsS5bfnio+I0A2rf4VwxHdk4EurWeIs73zKaLPVcjEPhlRc\nKCfXbgiuEWDnGSgMYbI0+NZvUOTzV/I7aS/ZBNssrN/thdaXpbInt1kxANWrLhie\nTwISWYh2YYdIsX8HUlksg8DENzHu5vHHq7B4w/4bJl8beaa3t4Lr2VY93u6PQJMF\nQcYg+e4SzqV8udRaaI1eoYQp5DMwGvOlJP6y2zFZi9X9e0+XBcZpo5OTWJeTeMuJ\nMmxtGpqtpdnUPeyhpaCroB6MEyFFu8SvxixGLJtFsOcd1SOXP18jbGf1ngiECxvd\nBw5SdO3xAgMBAAECggEAJ5oFYCKgVc3mdi49dj147b0EadEXSq1PRUKj0mPiLiTC\nBrgzMNPX/SoGyBOVTXR90kUfjgYyohXZaMkVsMzldSw1RWIEWZFimh7ruV1CERoO\ndDmrT2IJfFPMtjvOgQuNoLZVwhlKw9ey7ADdEAZncOC7iY8McguaTFKJcHCGxUKb\nBTST/2iLdN4a39+k2Wfj8Zwyc5OTQt+tOMCHRlfTZqeklSIwnAY0f0uqX+qOPl2n\n9UerIZXvQxof8GtEmiIFjgAJIdPEfZJE6FXNtsKC4PHuOeI11WimvVwjlO6VQmWh\n1FLmIT2wD1ajFDW2LmETHmibHye+xPh9kXP0JP3e1QKBgQD+nmxpsawGF/ZjsgC8\npYZuSFIHmtgUgbdD+OMMKzA+u4t1hxpIkA5huuSCg5ESkWJHDyzfLqwfhuJYXoMA\n+TwvfRRjSddpbk4xO3jXMyhlprT6du7tdhGkFuiL2V1pw9MaQi1D2RekzmWKu/N3\nfDNnlIE/GTKInPHyPnqrVj7tjQKBgQDrlEM30yyWXNvICSMzRocjwPC+/iGuoiUC\nMVkvT8OlrkO7EpTVhFEz5WrXWpQXDzgCyY0VmfcEKcWWaDJeT7PWWl2ZkxmBo5vr\nNWyTCPqxDkt1soWlA/E3AyKLu+7rSIx2izuD+YFw6PO5XQQASX6xQmQtJd8KmHAr\nq/nD5g1u9QKBgQCGGUHX2K9U9kHZ9+HTeQn4AzbQsoijJD41GlvaCNT79SJZ37HE\nDbrFVf0Lj+dT9CXibuefE6GraQrEp+IvHRTJngKi2D0PVfzwiPX3wQXBo68lSoZD\noi9gUIBhRzWfgncoGTplxWxibCGmk56Ci3M3VktLxCWNNbtnbeiFXIL/8QKBgFqr\njdOGq7qTsuOi4LFzi7/vGrnoBf642ZWmeLUE9kBmehseY7pqWvambiDE9AqMCPrJ\nqEuQHsqzaSEiqYAzHPx7e1sIiuCin/g/b7KH2jUbU1/Rfi6s/cI2qq0tgB9+pNFb\ndWSuO2vBvUyyyD90Chcffn8B/H6PfVzRrCgB+1mhAoGBAK5oGer4utVMqcFWGUqj\n7oxLrKwH3LdzLkFmW7kqGWPb8Cq5DhGsZUJKKlr1tMQZKm9hbaN9oeCdaLvzw4wv\nyUUJvYkq+O9URtOjjkZGQ1k3HTMYocP+udkIfJvzyAn2gXQkKHyj4MlYDzLiETlh\noblLwvsUONPSmfNtJuDN5pZZ\n-----END PRIVATE KEY-----\n",
+  "client_email": "jurident@jurident-bot-bnpv.iam.gserviceaccount.com",
+  "client_id": "112583196334231480121",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jurident%40jurident-bot-bnpv.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
