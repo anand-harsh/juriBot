@@ -10,7 +10,7 @@ body {
 }
 
 body {
-  background: linear-gradient(135deg, #6279d5, #4ef417);
+  background: linear-gradient(135deg, #c0ee28, #d91eba);
   background-size: cover;
   font-family: 'Open Sans', sans-serif;
   font-size: 12px;
@@ -37,7 +37,7 @@ body {
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  width: 80%;
+  width: 30%;
   height: 100vh;
   max-height: 700px;
   z-index: 2;
