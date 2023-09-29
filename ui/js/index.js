@@ -92,7 +92,7 @@ function serverMessage(response2) {
 
 function fetchmsg(){
 
-     var url = 'http://localhost:5500/send-msg';
+     var url = 'https://juribot-backend.onrender.com/send-msg';
       
       const data = new URLSearchParams();
       for (const pair of new FormData(document.getElementById("mymsg"))) {
